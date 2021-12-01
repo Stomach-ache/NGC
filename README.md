@@ -2,7 +2,7 @@ Source code for our NGC paper is available at [here](https://box.nju.edu.cn/f/05
 
 NGC is a unified framework that can not only handle both in-distribution and out-of-distribution label noise in the training set, but detect out-of-distribution samples at test time.
 
-Please cite our paper if you find it is helpful.
+Please cite our paper if you find it helpful.
 
 ```
 @InProceedings{Wu_2021_ICCV,
